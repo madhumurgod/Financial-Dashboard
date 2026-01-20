@@ -45,4 +45,4 @@ The dashboard provides a clear, interactive view of sales performance, helping b
 
 Screenshots / Demos
 Show the dashboard looks like. ![Alt text](https://github.com/madhumurgod/Financial-Dashboard/blob/main/Financial%20.png)
-Example:![Dashboard Preview].(https://github.com/madhumurgod/Financial-Dashboard/blob/main/Financial%20.png)
+Example:![Dashboard Preview].(https://github.com/madhumurgod/Financial-Dashboard/blob/main/new%20Financial%20report.pbit)
